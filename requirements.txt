@@ -16,3 +16,4 @@ faiss-cpu
 langchain-chroma
 pandas
 langchain-groq
+audio-recorder-streamlit
