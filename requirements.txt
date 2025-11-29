@@ -16,4 +16,6 @@ faiss-cpu
 langchain-chroma
 pandas
 langchain-groq
+SpeechRecognition
 audio-recorder-streamlit
+gTTS
